@@ -10,3 +10,11 @@ To compile the binary, include the *-lcppunit* flag with g++. Not sure how to in
 
     g++ -o whatever.out *.cpp -lcppunit
     ./whatever.out
+
+I still need to finish sorting through the remaining structures, the folders up now include:
+
+* [array](http://www.cplusplus.com/reference/array/array/) - Basically just a wrapper around an array. The less said, the better.
+* [vector](http://www.cplusplus.com/reference/vector/vector/) - Vector implementation.
+* [slist](http://www.cplusplus.com/reference/forward_list/forward_list/) - Singly-linked list implementation.
+* [deque](http://www.cplusplus.com/reference/deque/deque/) - Double ended queue implementation.
+* sorting-algorithms - Basic quicksort and mergesort implementations.
