@@ -103,8 +103,7 @@ class SList
   void push_front(generic x);
   void pop_front();
   void remove(generic x);
-  generic& front();
-  const generic& front() const;
+  generic& front() const;
   void clear();
   unsigned int size() const;
   bool empty() const;
