@@ -1,0 +1,97 @@
+bentonville 1
+joplin 60.7 53.5589
+joplin 3
+bentonville 60.7 53.5589
+kansascity 157 59.25
+springfield 74.4 53.79
+springfield 5
+joplin 74.4 53.79
+branson 44.9 52.823
+sedalia 117 47.43
+jeffersoncity 133 48.36
+rolla 110 60.00
+branson 2
+springfield 44.9 52.823
+westplains 99.7 47.10
+jeffersoncity 5
+springfield 133 48.36
+union 77.2 52.64
+rolla 62.6 55.24
+sedalia 60.5 49.06
+columbia 31.3 51.24
+sedalia 3
+jeffersoncity 60.5 49.06
+springfield 117 47.43
+kansascity 94.2 57.67
+rolla 4
+springfield 110 60.00
+westplains 98.4 47.10
+union 62.3 55.79
+jeffersoncity 62.6 55.24
+kansascity 5
+joplin 157 59.25
+sedalia 94.2 57.67
+columbia 125 59.06
+cameron 50.7 56.33
+stjoseph 53.6 55.45
+stjoseph 3
+kansascity 53.6 55.45
+cameron 34.8 50.93
+rockport 65.9 49.43
+rockport 2
+stjoseph 65.9 49.43
+bethany 97.5 51.77
+bethany 3
+rockport 97.5 51.77
+cameron 40.7 51.96
+lancaster 88.9 51.29
+lancaster 3
+bethany 88.9 51.29
+macon 58.0 48.33
+alexandria 67.3 50.48
+alexandria 2
+lancaster 67.3 50.48
+hannibal 60.9 52.2
+cameron 4
+kansascity 50.7 56.33
+stjoseph 34.8 50.93
+bethany 40.7 51.96
+macon 98.4 57.32
+westplains 3
+branson 99.7 47.10
+rolla 98.4 47.10
+poplarbluff 98.4 47.61
+poplarbluff 3
+westplains 98.4 47.61
+festus 120 54.14
+sikeston 47.8 51.21
+festus 3
+poplarbluff 120 54.14
+sikeston 116 60.00
+stlouis 35.7 45.57
+sikeston 2
+poplarbluff 47.8 51.21
+festus 116 60.00
+stlouis 4
+festus 35.7 45.57
+union 43.3 50.9
+columbia 123 55.9
+hannibal 116 52.35
+union 3
+stlouis 43.3 50.9
+jeffersoncity 77.2 52.64
+rolla 62.3 55.79
+columbia 4
+stlouis 123 55.9
+jeffersoncity 31.3 51.24
+kansascity 125 59.055
+macon 58.1 52.03
+macon 4
+columbia 58.1 52.03
+cameron 98.4 57.32
+lancaster 58.0 48.33
+hannibal 63.7 53.83
+hannibal 3
+stlouis 116 52.35
+macon 63.7 53.83
+alexandria 60.9 52.2
