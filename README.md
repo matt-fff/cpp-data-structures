@@ -1,5 +1,5 @@
 # cpp-data-structures
-Collection of C++ data structure implementations and unit tests. Primarily informational, since there are countless competing implementations, many of which were probably not written half a decade ago by an at-the-time freshman CS student.
+Collection of C++ data structure implementations and unit tests. Primarily informational, since there are countless competing implementations, many of which were probably not written half a decade ago by a freshman CS student.
 
 Each structure has its own folder and own main.cpp file, which runs a test suite for the structure. To compile on *nix, you'll need a compiler like gcc or g++, and need to have CppUnit installed.
 
