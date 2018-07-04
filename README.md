@@ -6,7 +6,7 @@ Each structure has its own folder and own main.cpp file, which runs a test suite
     sudo apt-get install g++
     sudo apt-get install libcppunit-1.13-0
 
-To compile the binary, include the *-lcppunit* flag with g++. Not sure how to include CppUnit with other compilers.
+To compile the binary, include the *-lcppunit* flag with g++.
 
     g++ -o whatever.out *.cpp -lcppunit
     ./whatever.out
