@@ -1,5 +1,9 @@
 # cpp-data-structures
-Collection of C++ data structure implementations and unit tests. Informational only, as it was written a decade ago by a clueless student.
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg)]()
+
+Collection of C++ data structure implementations and unit tests. Written as a student.
+
+Only useful as an academic exercise.
 
 Each structure has its own folder and own main.cpp file, which runs a test suite for the structure. To compile on *nix, you'll need a compiler like gcc or g++, and need to have CppUnit installed.
 
@@ -11,7 +15,7 @@ To compile the binary, include the *-lcppunit* flag with g++.
     g++ -o whatever.out *.cpp -lcppunit
     ./whatever.out
 
-I still need to finish sorting through the remaining structures, the folders up now include:
+The folders currently included:
 
 * [array](http://www.cplusplus.com/reference/array/array/) - Basically just a wrapper around an array. The less said, the better.
 * [vector](http://www.cplusplus.com/reference/vector/vector/) - Vector implementation.
